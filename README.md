@@ -1,3 +1,10 @@
+You must Downloud and Run db file (DataBase-Ecommerc-app) 
+
+npx json-server --watch db.json 
+
+To Run DataBase
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
